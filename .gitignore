@@ -1,0 +1,4 @@
+data/*.csv
+data/test_data_preprocessed.csv
+data/training_data_preprocessed.csv
+data/training_data_undersampled_preprocessed.csv
